@@ -1,0 +1,38 @@
+{
+  "version-0.0.1/docs": [
+    {
+      "type": "category",
+      "label": "Introduction",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/introduction/getting-started"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Commands",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/commands/placeholder"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Community",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-0.0.1/community/contributing"
+        },
+        {
+          "type": "doc",
+          "id": "version-0.0.1/community/code-of-conduct"
+        }
+      ]
+    }
+  ]
+}
