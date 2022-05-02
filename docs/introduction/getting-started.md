@@ -20,7 +20,7 @@ sidebar_label: Getting Started
 <img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8" />
 <img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code" />
 </p>
-<br>
+</br>
 
 # :zap: Installation
 
@@ -96,14 +96,14 @@ $ npm init
 $ yarn init
 ```
 
-<br>
+</br>
 
 
 ## :clap: Supporters
 
 [![Stargazers repo roster for @flightpkg/flight](https://reporoster.com/stars/flightpkg/flight)](https://github.com/flightpkg/flight/stargazers)
 
-<br>
+</br>
 
 ## Built With
 
