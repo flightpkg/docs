@@ -33,7 +33,12 @@
     window.location.href = `https://github.com/flightpkg/flight/releases/download/${version}/install.sh`;
   }, [])
    return (
-    "Redirecting to latest release"
+    <Layout
+    permalink="/versions"
+    description="flightpkg - CLI Versions page listing all documented site versions"
+  >
+      <p>Loading data...</p>
+  </Layout>
  );
 }
  
