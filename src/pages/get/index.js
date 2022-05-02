@@ -30,7 +30,7 @@
    }, []);
 
    useEffect(() => {
-    window.location.href = `https://github.com/flightpkg/flight/releases/download/${version}/install.sh`;
+    window.location.href = `https://github.com/flightpkg/flight/releases/download/v0.0.5/install.sh`;
   }, [])
    return ("Loading...");
 }
