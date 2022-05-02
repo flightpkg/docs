@@ -4,14 +4,10 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
- import { Redirect } from '@docusaurus/router';
- import React, { useState, useEffect } from "react";
-
- import Layout from "@theme/Layout";
+ import { Redirect, IndexRoute,  } from '@docusaurus/router';
+ import React, { useState, useEffect, Route } from "react";
  
- // import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
- import Link from "@docusaurus/Link";
- import useBaseUrl from "@docusaurus/useBaseUrl";
+
  
  import versions from "../../../versions.json";
  import api from "../../services/api";
