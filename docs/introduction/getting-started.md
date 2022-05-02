@@ -10,7 +10,7 @@ sidebar_label: Getting Started
 
 <h1 align="center">Flight</h1>
 <h4 align="center">Swift, reliable, multi-language package manager.</h4>
-<br>
+<br><br>
 
 <p align="center">
 <img src="https://github.com/flightpkg/flight/actions/workflows/compile.yml/badge.svg?branch=main" />
@@ -20,12 +20,12 @@ sidebar_label: Getting Started
 <img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8" />
 <img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code" />
 </p>
-</br>
+<br></br>
 
 # :zap: Installation
 
 We don't have an official release of Flight yet, however, if you would like to give it a try, feel free to follow the steps below to install a pre-alpha release.
-<br>
+<br><br>
 
 ### Linux:
 
@@ -96,14 +96,14 @@ $ npm init
 $ yarn init
 ```
 
-</br>
+<br></br>
 
 
 ## :clap: Supporters
 
 [![Stargazers repo roster for @flightpkg/flight](https://reporoster.com/stars/flightpkg/flight)](https://github.com/flightpkg/flight/stargazers)
 
-</br>
+<br></br>
 
 ## Built With
 
