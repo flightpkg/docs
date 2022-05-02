@@ -9,21 +9,21 @@ sidebar_label: Getting Started
 
 <h1 align="center">Flight</h1>
 <h4 align="center">Swift, reliable, multi-language package manager.</h4>
-<br>
+
 
 <p align="center">
-<img src="https://img.shields.io/github/languages/code-size/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/github/issues/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/github/languages/top/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code">
+<img src="https://img.shields.io/github/languages/code-size/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/github/issues/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/github/languages/top/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code" />
 </p>
-<br>
+
 
 # :zap: Installation
 
 We don't have an official release of Flight yet, however, if you would like to give it a try, feel free to follow the steps below to build from source.
-<br>
+
 
 ## Build From Source
 Prerequisites: Git, Yarn and/or NPM, NodeJS.
@@ -63,19 +63,10 @@ $ npm init
 $ yarn init
 ```
 
-<br>
+
 
 
 ## :clap: Supporters
 
 [![Stargazers repo roster for @flightpkg/flight](https://reporoster.com/stars/flightpkg/flight)](https://github.com/flightpkg/flight/stargazers)
 
-<br>
-
-## Built With
-
-[NodeJS](https://nodejs.org/)
-
-## License
-
-This project is licensed under Apache-2.0 - see the [LICENSE.md](LICENSE) file for details.

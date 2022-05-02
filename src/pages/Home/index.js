@@ -16,7 +16,7 @@ function Home() {
   const [version, setVersion] = useState("v.X.Y.Z");
 
   useEffect(() => {
-    api.get("/repos/flightpkgjs/flightpkg-cli/tags").then(response => {
+    api.get("/repos/flightpkg/flight/tags").then(response => {
       if (response.status === 200 && response.data.length > 0) {
         const [{ name }] = response.data;
         setVersion(name);
