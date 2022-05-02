@@ -13,12 +13,12 @@ sidebar_label: Getting Started
 <br>
 
 <p align="center">
-<img src="https://github.com/flightpkg/flight/actions/workflows/compile.yml/badge.svg?branch=main">
-<img src="https://sonarcloud.io/api/project_badges/measure?project=flightpkg_flight&metric=alert_status">
-<img src="https://img.shields.io/github/languages/code-size/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/github/issues/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8">
-<img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code">
+<img src="https://github.com/flightpkg/flight/actions/workflows/compile.yml/badge.svg?branch=main" />
+<img src="https://sonarcloud.io/api/project_badges/measure?project=flightpkg_flight&metric=alert_status" />
+<img src="https://img.shields.io/github/languages/code-size/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/github/issues/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/github/package-json/v/flightpkg/flight?color=6190E8" />
+<img src="https://img.shields.io/tokei/lines/github/flightpkg/flight?color=6190E8&label=lines%20of%20code" />
 </p>
 <br>
 
