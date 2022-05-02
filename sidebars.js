@@ -7,10 +7,8 @@
 
 module.exports = {
   docs: {
-    Introduction: ['introduction/getting-started'],
-    Commands: [
-      'commands/placeholder',
-    ],
-    Community: ['community/contributing', 'community/code-of-conduct'],
-  },
+    Introduction: ["introduction/getting-started"],
+    Commands: ["commands/placeholder"],
+    Community: ["community/contributing", "community/code-of-conduct"]
+  }
 };

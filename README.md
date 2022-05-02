@@ -1,4 +1,4 @@
-# flightpkg - Website 
+# flightpkg - Website
 
 This website is built using Docusaurus v2, a modern static website generator.
 

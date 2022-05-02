@@ -1,14 +1,14 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React from "react";
+import PropTypes from "prop-types";
 
-import styles from './styles.module.css';
+import styles from "./styles.module.css";
 
 function flightpkgTerminal({ version }) {
   const printNewLine = () => <span> </span>;
 
   const printDivider = () => (
-    <span style={{ color: 'var(--flightpkg-color-regular)' }}>
-      {'-'.repeat(63)}
+    <span style={{ color: "var(--flightpkg-color-regular)" }}>
+      {"-".repeat(63)}
     </span>
   );
 
@@ -57,7 +57,7 @@ function flightpkgTerminal({ version }) {
 }
 
 flightpkgTerminal.propTypes = {
-  version: PropTypes.string.isRequired,
+  version: PropTypes.string.isRequired
 };
 
 export default flightpkgTerminal;
