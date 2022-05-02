@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/get", "destination": "https://github.com/flightpkg/flight/releases/download/v0.0.5/install.sh" }
+  ]
+}
