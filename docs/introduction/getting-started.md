@@ -105,11 +105,3 @@ $ yarn init
 
 <br></br>
 
-## Built With
-
-[NodeJS](https://nodejs.org/)
-
-## License
-
-This project is licensed under Apache-2.0 - see the [LICENSE.md](LICENSE) file for details.
-
